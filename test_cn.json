@@ -40,7 +40,7 @@
                         "entity_type": "PERSON",
                         "entity_mention_id": "001-61807_a1_em4",
                         "start_offset": 72,
-                        "end_offset": 86,
+                        "end_offset": 76,
                         "span_text": "张三先生",
                         "edit_type": "check",
                         "identifier_type": "DIRECT",
@@ -50,8 +50,8 @@
                     {
                         "entity_type": "PERSON",
                         "entity_mention_id": "001-61807_a1_em5",
-                        "start_offset": 87,
-                        "end_offset": 105,
+                        "start_offset": 77,
+                        "end_offset": 81,
                         "span_text": "李四先生",
                         "edit_type": "check",
                         "identifier_type": "QUASI",
@@ -61,8 +61,8 @@
                     {
                         "entity_type": "PERSON",
                         "entity_mention_id": "001-61807_a1_em6",
-                        "start_offset": 106,
-                        "end_offset": 122,
+                        "start_offset": 82,
+                        "end_offset": 86,
                         "span_text": "王二先生",
                         "edit_type": "check",
                         "identifier_type": "QUASI",
@@ -72,8 +72,8 @@
                     {
                         "entity_type": "PERSON",
                         "entity_mention_id": "001-61807_a1_em7",
-                        "start_offset": 123,
-                        "end_offset": 136,
+                        "start_offset": 87,
+                        "end_offset": 91,
                         "span_text": "黄大先生",
                         "edit_type": "check",
                         "identifier_type": "QUASI",
@@ -83,8 +83,8 @@
                     {
                         "entity_type": "DATETIME",
                         "entity_mention_id": "001-61807_a1_em8",
-                        "start_offset": 144,
-                        "end_offset": 155,
+                        "start_offset": 99,
+                        "end_offset": 110,
                         "span_text": "1996年11月29日",
                         "edit_type": "check",
                         "identifier_type": "QUASI",
@@ -94,9 +94,9 @@
                     {
                         "entity_type": "PERSON",
                         "entity_mention_id": "001-61807_a1_em9",
-                        "start_offset": 176,
-                        "end_offset": 182,
-                        "span_text": "S埃斯默先生",
+                        "start_offset": 131,
+                        "end_offset": 136,
+                        "span_text": "埃斯默先生",
                         "edit_type": "check",
                         "identifier_type": "QUASI",
                         "entity_id": "001-61807_a1_e9",
@@ -105,8 +105,8 @@
                     {
                         "entity_type": "LOC",
                         "entity_mention_id": "001-61807_a1_em10",
-                        "start_offset": 186,
-                        "end_offset": 189,
+                        "start_offset": 140,
+                        "end_offset": 143,
                         "span_text": "安卡拉",
                         "edit_type": "check",
                         "confidential_status": "NOT_CONFIDENTIAL",
@@ -116,8 +116,8 @@
                     {
                         "entity_type": "ORG",
                         "entity_mention_id": "001-61807_a1_em11",
-                        "start_offset": 195,
-                        "end_offset": 200,
+                        "start_offset": 149,
+                        "end_offset": 154,
                         "span_text": "土耳其政府",
                         "edit_type": "check",
                         "confidential_status": "NOT_CONFIDENTIAL",
@@ -127,8 +127,8 @@
                     {
                         "entity_type": "DATETIME",
                         "entity_mention_id": "001-61807_a1_em12",
-                        "start_offset": 242,
-                        "end_offset": 246,
+                        "start_offset": 196,
+                        "end_offset": 200,
                         "span_text": "1989",
                         "edit_type": "check",
                         "identifier_type": "QUASI",
@@ -138,8 +138,8 @@
                     {
                         "entity_type": "DATETIME",
                         "entity_mention_id": "001-61807_a1_em13",
-                        "start_offset": 251,
-                        "end_offset": 255,
+                        "start_offset": 205,
+                        "end_offset": 209,
                         "span_text": "1996",
                         "edit_type": "check",
                         "identifier_type": "QUASI",
@@ -153,7 +153,7 @@
             "annotator1"
         ],
         "text": "程序\n\n本案源于根据《保护人权公约》原第25条向欧洲人权委员会（“委员会”）提出的针对土耳其共和国的申请（编号36110/97）和四名土耳其公民张三先生、李四先生、王二先生和黄大先生（“申请人”）于1996年11月29日提出《基本自由》（“公约”）。\n\n申请人由S埃斯默先生代表，在安卡拉执业的律师。土耳其政府（“政府”）没有为《公约》机构的诉讼目的指定一名代理人。\n\n申诉人声称，他们的案件于1989年开始，于1996年结束，没有在合理的时间内得到审理。 \n\n申请于1998年11月1日转交法院，当时《公约》第11号议定书生效（第11号议定书第5条第2款）。",
-        "task": "Task: Annotate the document to anonymise the following person: Galip Yalman",
+        "task": "Task: Annotate the document to anonymise the following person: 张三先生",
         "meta": {
             "year": 2004,
             "legal_branch": "CHAMBER",
@@ -171,7 +171,7 @@
                 93
             ],
             "countries": "TUR",
-            "applicant": "Galip Yalman"
+            "applicant": "张三先生"
         },
         "doc_id": "001-61807",
         "dataset_type": "test"
