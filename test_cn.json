@@ -1,0 +1,179 @@
+[
+    {
+        "annotations": {
+            "annotator1": {
+                "entity_mentions": [
+                    {
+                        "entity_type": "CODE",
+                        "entity_mention_id": "001-61807_a1_em1",
+                        "start_offset": 55,
+                        "end_offset": 63,
+                        "span_text": "36110/97",
+                        "edit_type": "check",
+                        "identifier_type": "DIRECT",
+                        "entity_id": "001-61807_a1_e1",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "ORG",
+                        "entity_mention_id": "001-61807_a1_em2",
+                        "start_offset": 43,
+                        "end_offset": 49,
+                        "span_text": "土耳其共和国",
+                        "edit_type": "insert",
+                        "confidential_status": "NOT_CONFIDENTIAL",
+                        "identifier_type": "NO_MASK",
+                        "entity_id": "001-61807_a1_e2"
+                    },
+                    {
+                        "entity_type": "DEM",
+                        "entity_mention_id": "001-61807_a1_em3",
+                        "start_offset": 67,
+                        "end_offset": 70,
+                        "span_text": "土耳其",
+                        "edit_type": "check",
+                        "confidential_status": "NOT_CONFIDENTIAL",
+                        "identifier_type": "NO_MASK",
+                        "entity_id": "001-61807_a1_e3"
+                    },
+                    {
+                        "entity_type": "PERSON",
+                        "entity_mention_id": "001-61807_a1_em4",
+                        "start_offset": 72,
+                        "end_offset": 86,
+                        "span_text": "Galip Yalman先生",
+                        "edit_type": "check",
+                        "identifier_type": "DIRECT",
+                        "entity_id": "001-61807_a1_e4",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "PERSON",
+                        "entity_mention_id": "001-61807_a1_em5",
+                        "start_offset": 87,
+                        "end_offset": 105,
+                        "span_text": "Bahattin Sarısoy先生",
+                        "edit_type": "check",
+                        "identifier_type": "QUASI",
+                        "entity_id": "001-61807_a1_e5",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "PERSON",
+                        "entity_mention_id": "001-61807_a1_em6",
+                        "start_offset": 106,
+                        "end_offset": 122,
+                        "span_text": "Osman Çağlayan先生",
+                        "edit_type": "check",
+                        "identifier_type": "QUASI",
+                        "entity_id": "001-61807_a1_e6",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "PERSON",
+                        "entity_mention_id": "001-61807_a1_em7",
+                        "start_offset": 123,
+                        "end_offset": 136,
+                        "span_text": "Yusuf Çamca先生",
+                        "edit_type": "check",
+                        "identifier_type": "QUASI",
+                        "entity_id": "001-61807_a1_e7",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "DATETIME",
+                        "entity_mention_id": "001-61807_a1_em8",
+                        "start_offset": 144,
+                        "end_offset": 155,
+                        "span_text": "1996年11月29日",
+                        "edit_type": "check",
+                        "identifier_type": "QUASI",
+                        "entity_id": "001-61807_a1_e8",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "PERSON",
+                        "entity_mention_id": "001-61807_a1_em9",
+                        "start_offset": 176,
+                        "end_offset": 182,
+                        "span_text": "S埃斯默先生",
+                        "edit_type": "check",
+                        "identifier_type": "QUASI",
+                        "entity_id": "001-61807_a1_e9",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "LOC",
+                        "entity_mention_id": "001-61807_a1_em10",
+                        "start_offset": 186,
+                        "end_offset": 189,
+                        "span_text": "安卡拉",
+                        "edit_type": "check",
+                        "confidential_status": "NOT_CONFIDENTIAL",
+                        "identifier_type": "NO_MASK",
+                        "entity_id": "001-61807_a1_e10"
+                    },
+                    {
+                        "entity_type": "ORG",
+                        "entity_mention_id": "001-61807_a1_em11",
+                        "start_offset": 195,
+                        "end_offset": 200,
+                        "span_text": "土耳其政府",
+                        "edit_type": "check",
+                        "confidential_status": "NOT_CONFIDENTIAL",
+                        "identifier_type": "NO_MASK",
+                        "entity_id": "001-61807_a1_e11"
+                    },
+                    {
+                        "entity_type": "DATETIME",
+                        "entity_mention_id": "001-61807_a1_em12",
+                        "start_offset": 242,
+                        "end_offset": 246,
+                        "span_text": "1989",
+                        "edit_type": "check",
+                        "identifier_type": "QUASI",
+                        "entity_id": "001-61807_a1_e12",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    },
+                    {
+                        "entity_type": "DATETIME",
+                        "entity_mention_id": "001-61807_a1_em13",
+                        "start_offset": 251,
+                        "end_offset": 255,
+                        "span_text": "1996",
+                        "edit_type": "check",
+                        "identifier_type": "QUASI",
+                        "entity_id": "001-61807_a1_e13",
+                        "confidential_status": "NOT_CONFIDENTIAL"
+                    }
+                ]
+            }
+        },
+        "quality_checked": [
+            "annotator1"
+        ],
+        "text": "程序\n\n本案源于根据《保护人权公约》原第25条向欧洲人权委员会（“委员会”）提出的针对土耳其共和国的申请（编号36110/97）和四名土耳其公民Galip Yalman先生、Bahattin Sarısoy先生、Osman Çağlayan先生和Yusuf Çamca先生（“申请人”）于1996年11月29日提出《基本自由》（“公约”）。\n\n申请人由S埃斯默先生代表，在安卡拉执业的律师。土耳其政府（“政府”）没有为《公约》机构的诉讼目的指定一名代理人。\n\n申诉人声称，他们的案件于1989年开始，于1996年结束，没有在合理的时间内得到审理。 \n\n申请于1998年11月1日转交法院，当时《公约》第11号议定书生效（第11号议定书第5条第2款）。",
+        "task": "Task: Annotate the document to anonymise the following person: Galip Yalman",
+        "meta": {
+            "year": 2004,
+            "legal_branch": "CHAMBER",
+            "articles": [
+                91,
+                34,
+                54,
+                34,
+                44,
+                32,
+                34,
+                52,
+                49,
+                34,
+                93
+            ],
+            "countries": "TUR",
+            "applicant": "Galip Yalman"
+        },
+        "doc_id": "001-61807",
+        "dataset_type": "test"
+    }
+]
